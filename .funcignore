@@ -1,0 +1,11 @@
+# Arquivos que NÃO vão para o Azure no deploy (o Azure compila o TypeScript sozinho)
+.git*
+.vscode
+node_modules
+dist
+local.settings.json
+local.settings.example.json
+test
+coverage
+README.md
+**/*.spec.ts

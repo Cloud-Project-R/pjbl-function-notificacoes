@@ -1,0 +1,6 @@
+node_modules/
+dist/
+coverage/
+.env
+# Configuração local com a string de conexão da Storage (segredo)
+local.settings.json

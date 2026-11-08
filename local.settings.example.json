@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "COLE-AQUI-A-STRING-DE-CONEXAO-DA-STORAGE-ACCOUNT"
+  }
+}
